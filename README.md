@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @markaldric
+- 👀 I’m interested in learning development stacks
+- 🌱 I’m currently learning ReactJS
+- 📫 You can reach me through email (markaldricdomingo@gmail.com) and LinkedIn (https://www.linkedin.com/in/markaldric/)
